@@ -1,0 +1,16 @@
+﻿NOMBRE JUEGO:
+
+
+Freedom!
+
+DESCRIPCIÓN:
+
+
+Eres un mexicano que intenta cruzar el muro de Trump mediante unos tuneles subterraneos.
+
+MIEMBROS DEL EQUIPO:
+ 
+
+- Jon Sieira
+- Mikel Elvira
+- Gaizka Urretabizkaia
