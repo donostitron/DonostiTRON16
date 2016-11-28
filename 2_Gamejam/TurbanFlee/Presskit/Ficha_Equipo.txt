@@ -1,0 +1,19 @@
+NOMBRE JUEGO:
+Turban Flee
+DESCRIPCIÓN:
+Un refugiado  intenta escapar d un campo de refugiados. Para poder escapar tendra que recoger las distintas llaves que hay en el mapa anted de que finalice el tiempo.
+Mientras recoge las llaves, la policia lo persigue.
+
+Es un juego de intenta escapar antes de que finalice el tiempo. si un policia te toca te de descontaran 20 segundos de la cuenta atras.
+Al recoger todas las llaves se abrira una puerta en la que podra escapar.
+
+Como item up, se a añadido un objeto (Coran) que si lo recoges y pulsas "V" tendras durante 5 segundos un aumento de velocidad.
+
+
+MIEMBROS DEL EQUIPO:
+ - Unai Urkidi
+ - Jesus Morales
+ - Urko Sanchez
+ - Jose Ramon Garcia
+ 
+
