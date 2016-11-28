@@ -1,0 +1,41 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Iñaki Alzaga\Desktop\prueba_escenarios - copia - copia\Penetron 3000_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.582514 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 30a4 -> priority: 1 
+  Thread -> id: 3034 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.482073 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 4795.
+Total: 0.735041 ms (FindLiveObjects: 0.148183 ms CreateObjectMapping: 0.031425 ms MarkObjects: 0.273117 ms  DeleteObjects: 0.281804 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.601131 ms
+
+Unloading 302 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 6.033623 ms (FindLiveObjects: 0.057995 ms CreateObjectMapping: 0.061317 ms MarkObjects: 0.294834 ms  DeleteObjects: 5.618198 ms)
+
