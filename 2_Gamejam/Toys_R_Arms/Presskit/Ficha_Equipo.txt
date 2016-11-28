@@ -1,0 +1,13 @@
+NOMBRE JUEGO:Toys R Arms
+
+DESCRIPCIÓN:
+
+El trafico de armas es un problema a nivel mundial que causa mas de 500 muertos al dia solo fuera de las zonas de conflicto. Como agente de 
+aduanas tu trabajo es evitar que se introduzcan armas de encubierto en el pais, en un juego que exigira al jugador atencion y reflejos.
+
+MIEMBROS DEL EQUIPO:
+ - Julen Elexpuru
+ - Oscar Aguinagalde
+ - Gonzalo Pierola
+ - Mikel Fernandez
+
